@@ -12,11 +12,10 @@ body {
 .wrapper {
     position: relative;
     width: 100%;
-    max-width: 1032px;
+    /* max-width: 1032px; */
     margin: 0 auto;
-	/* width: 100%;
-   padding-right: 25px;
- 	padding-left: 25px; */
+    padding-right: 25px;
+    padding-left: 25px; 
     }
 
 /* text styles */
