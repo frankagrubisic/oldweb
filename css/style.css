@@ -10,9 +10,13 @@ body {
 * { box-sizing: border-box; }
 
 .wrapper {
+    position: relative;
     width: 100%;
-    padding-right: 25px;
- 	padding-left: 25px;
+    max-width: 1032px;
+    margin: 0 auto;
+	/* width: 100%;
+   padding-right: 25px;
+ 	padding-left: 25px; */
     }
 
 /* text styles */
