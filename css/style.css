@@ -12,8 +12,8 @@ body {
 .wrapper {
     position: relative;
     width: 100%;
-    /* max-width: 1032px; */
-    margin: 0 auto;
+    /* max-width: 1032px; 
+    margin: 0 auto;*/
     padding-right: 25px;
     padding-left: 25px; 
     }
